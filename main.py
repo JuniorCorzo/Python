@@ -51,9 +51,7 @@ pay_hours()
 #print("La media de esta lista es {:1f}".format(listData.mean()))
 #print("El maximo valor de esta lista es {}".format(listData.max()))
 #print("El valor minimo es {}".format(listData.min()))
-#print("La logintud de esta lista es {}".format(len(listData)))
-
-
+#print("La logintud de esta lista es {}".format(len(listData))
 
 #listToSum = [1, 4, 3, 2, 4, 2, 5]
 #print(sumList(listToSum))
